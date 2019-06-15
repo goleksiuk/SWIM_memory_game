@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="global_zero">0dp</dimen>
+    <dimen name="margin_fragment">10dp</dimen>
+    <dimen name="margin_card">5dp</dimen>
+</resources>

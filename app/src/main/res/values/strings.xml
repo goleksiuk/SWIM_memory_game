@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="to_dark">It is too dark here, \nI am a little scared&#8230;</string>
+
+    <string name="direction_north">North</string>
+    <string name="direction_south">South</string>
+    <string name="direction_west">West</string>
+    <string name="direction_east">East</string>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".South"
+
+        android:rowCount="3"
+        android:columnCount="2">
+
+    <ImageView
+            android:id="@+id/south_IV1"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_width="@dimen/global_zero"
+            android:layout_height="@dimen/global_zero"
+            android:layout_marginBottom="@dimen/margin_card"
+            android:layout_marginEnd="@dimen/margin_card" />
+    <ImageView
+            android:id="@+id/south_IV2"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_width="@dimen/global_zero"
+            android:layout_height="@dimen/global_zero"
+            android:layout_marginBottom="@dimen/margin_card"
+            android:layout_marginStart="@dimen/margin_card" />
+    <ImageView
+            android:id="@+id/south_IV3"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_width="@dimen/global_zero"
+            android:layout_height="@dimen/global_zero"
+            android:layout_marginTop="@dimen/margin_card"
+            android:layout_marginBottom="@dimen/margin_card"
+            android:layout_marginEnd="@dimen/margin_card"/>
+    <ImageView
+            android:id="@+id/south_IV4"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_width="@dimen/global_zero"
+            android:layout_height="@dimen/global_zero"
+            android:layout_marginTop="@dimen/margin_card"
+            android:layout_marginBottom="@dimen/margin_card"
+            android:layout_marginStart="@dimen/margin_card" />
+    <ImageView
+            android:id="@+id/south_IV5"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_width="@dimen/global_zero"
+            android:layout_height="@dimen/global_zero"
+            android:layout_marginTop="@dimen/margin_card"
+            android:layout_marginStart="@dimen/margin_card"/>
+    <ImageView
+            android:id="@+id/south_IV6"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_width="@dimen/global_zero"
+            android:layout_height="@dimen/global_zero"
+            android:layout_marginTop="@dimen/margin_card"
+            android:layout_marginStart="@dimen/margin_card"/>
+</GridLayout>
